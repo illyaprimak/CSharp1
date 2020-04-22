@@ -1,0 +1,17 @@
+I:\Downloads\CSharp01-master\Yatsyshyn\bin\Debug\Yatsyshyn.exe.config
+I:\Downloads\CSharp01-master\Yatsyshyn\bin\Debug\Yatsyshyn.exe
+I:\Downloads\CSharp01-master\Yatsyshyn\bin\Debug\Yatsyshyn.pdb
+I:\Downloads\CSharp01-master\Yatsyshyn\obj\Debug\Yatsyshyn.csprojAssemblyReference.cache
+I:\Downloads\CSharp01-master\Yatsyshyn\obj\Debug\View.baml
+I:\Downloads\CSharp01-master\Yatsyshyn\obj\Debug\MainWindow.g.cs
+I:\Downloads\CSharp01-master\Yatsyshyn\obj\Debug\View.g.cs
+I:\Downloads\CSharp01-master\Yatsyshyn\obj\Debug\App.g.cs
+I:\Downloads\CSharp01-master\Yatsyshyn\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\Downloads\CSharp01-master\Yatsyshyn\obj\Debug\Yatsyshyn_MarkupCompile.cache
+I:\Downloads\CSharp01-master\Yatsyshyn\obj\Debug\Yatsyshyn_MarkupCompile.lref
+I:\Downloads\CSharp01-master\Yatsyshyn\obj\Debug\MainWindow.baml
+I:\Downloads\CSharp01-master\Yatsyshyn\obj\Debug\Yatsyshyn.g.resources
+I:\Downloads\CSharp01-master\Yatsyshyn\obj\Debug\Yatsyshyn.Properties.Resources.resources
+I:\Downloads\CSharp01-master\Yatsyshyn\obj\Debug\Yatsyshyn.csproj.GenerateResource.cache
+I:\Downloads\CSharp01-master\Yatsyshyn\obj\Debug\Yatsyshyn.exe
+I:\Downloads\CSharp01-master\Yatsyshyn\obj\Debug\Yatsyshyn.pdb

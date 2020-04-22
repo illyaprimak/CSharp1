@@ -1,0 +1,17 @@
+I:\Downloads\CSharp01-master\Prymachenko\bin\Debug\Prymachenko.exe.config
+I:\Downloads\CSharp01-master\Prymachenko\bin\Debug\Prymachenko.exe
+I:\Downloads\CSharp01-master\Prymachenko\bin\Debug\Prymachenko.pdb
+I:\Downloads\CSharp01-master\Prymachenko\obj\Debug\Prymachenko.csprojAssemblyReference.cache
+I:\Downloads\CSharp01-master\Prymachenko\obj\Debug\View.baml
+I:\Downloads\CSharp01-master\Prymachenko\obj\Debug\MainWindow.g.cs
+I:\Downloads\CSharp01-master\Prymachenko\obj\Debug\View.g.cs
+I:\Downloads\CSharp01-master\Prymachenko\obj\Debug\App.g.cs
+I:\Downloads\CSharp01-master\Prymachenko\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\Downloads\CSharp01-master\Prymachenko\obj\Debug\Prymachenko_MarkupCompile.cache
+I:\Downloads\CSharp01-master\Prymachenko\obj\Debug\Prymachenko_MarkupCompile.lref
+I:\Downloads\CSharp01-master\Prymachenko\obj\Debug\MainWindow.baml
+I:\Downloads\CSharp01-master\Prymachenko\obj\Debug\Prymachenko.g.resources
+I:\Downloads\CSharp01-master\Prymachenko\obj\Debug\Prymachenko.Properties.Resources.resources
+I:\Downloads\CSharp01-master\Prymachenko\obj\Debug\Prymachenko.csproj.GenerateResource.cache
+I:\Downloads\CSharp01-master\Prymachenko\obj\Debug\Prymachenko.exe
+I:\Downloads\CSharp01-master\Prymachenko\obj\Debug\Prymachenko.pdb
